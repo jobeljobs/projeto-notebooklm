@@ -1,174 +1,610 @@
-# 📚 Caderno Temático de Educação Financeira para Iniciantes
+# 📚 Caderno Temático de Educação Financeira com NotebookLM
 
-Projeto desenvolvido para o desafio **Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM**, da DIO.
+## 🎯 Contexto e Objetivos
 
-## 🎯 Objetivo
+Este projeto utiliza o **NotebookLM como ferramenta de aprendizagem ativa**, com o objetivo de organizar, analisar e consolidar conhecimentos sobre **Educação Financeira**.
 
-Utilizar o NotebookLM como ferramenta de aprendizagem ativa para organizar, analisar e estudar conteúdos introdutórios de educação financeira, utilizando fontes confiáveis e prompts estruturados.
+O estudo foi desenvolvido a partir da curadoria de fontes abertas sobre planejamento financeiro, orçamento, crédito, dívidas, poupança e investimentos.
 
-## 🧠 Tema
+### 🎯 Objetivos de Aprendizagem
 
-**Educação Financeira para Iniciantes**
-
-Principais assuntos abordados:
-
-* Organização das finanças pessoais
-* Orçamento financeiro
-* Planejamento financeiro
-* Reserva de emergência
-* Crédito, juros e dívidas
-* Poupança e investimentos
-
-## 📚 Fontes utilizadas
-
-Foram selecionadas quatro fontes institucionais e abertas:
-
-1. [Banco Central do Brasil — Caderno de Educação Financeira](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
-2. [CVM — Guia de Planejamento Financeiro](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-planejamento-financeiro)
-3. [CVM — Planejamento e gestão de reservas financeiras](https://www.gov.br/investidor/pt-br/penso-logo-invisto/planejamento-e-gestao-de-reservas-financeiras)
-4. [CVM — TOP Planejamento Financeiro Pessoal](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm/livro-top-planejamento-financeiro-pessoal/)
-## 🎯 Objetivos de aprendizagem
-
-Os objetivos foram definidos utilizando o NotebookLM a partir das fontes selecionadas.
-
-### **1\. Diferenciar Necessidades de Desejos e Praticar Escolhas Conscientes**
-
-* **Conhecimento e Habilidade a Desenvolver:** Identificar a diferença entre **necessidades** (itens indispensáveis à vida) e **desejos** (anseios e vontades)[1][2]. Compreender o conceito de **troca intertemporal** — analisando os impactos das escolhas presentes sobre o futuro ao decidir entre usufruir agora (assumindo custos e juros) ou adiar o consumo (recebendo rendimentos)[3]. O participante aprenderá a equilibrar razão e emoção nas decisões de compra, evitando impulsos e exigências de *status* social[6].
+- Compreender os principais conceitos de educação financeira.
+- Aprender a organizar receitas e despesas.
+- Entender a importância do planejamento financeiro.
+- Compreender o funcionamento do crédito e dos juros.
+- Conhecer estratégias relacionadas à reserva de emergência.
+- Diferenciar poupança, renda fixa e renda variável.
+- Compreender os principais conceitos relacionados aos investimentos.
+- Utilizar o NotebookLM para consultar, comparar e consolidar informações provenientes das fontes selecionadas.
 
 ---
 
-### **2\. Elaborar e Gerenciar um Orçamento Pessoal ou Familiar Superavitário**
+# 📚 Curadoria de Fontes
 
-* **Conhecimento e Habilidade a Desenvolver:** Dominar o processo de elaboração do orçamento doméstico em quatro etapas (planejamento, registro, agrupamento e avaliação)[9]. Mapear e categorizar receitas e despesas em fixas e variáveis[10][11], aplicando a meta básica da boa gestão financeira: manter as **despesas menores que as receitas (orçamento superavitário)**[12]. Desenvolver a habilidade de analisar o destino do dinheiro e eliminar desperdícios[15][16].
+As fontes utilizadas no NotebookLM foram selecionadas por apresentarem conteúdos relacionados à educação financeira, planejamento financeiro, crédito, orçamento e investimentos.
 
----
+## Fonte 1 — Banco Central do Brasil
 
-### **3\. Planejar e Mapear Objetivos para Transformar Sonhos em Projetos**
+**Material:** Cidadania Financeira
 
-* **Conhecimento e Habilidade a Desenvolver:** Diferenciar "sonho" (aspiração ou desejo vivo) de "projeto" (o sonho estruturado no papel com ações e planejamento)[17][18]. O aprendiz desenvolverá a habilidade de definir metas específicas e objetivas, organizadas em horizontes de **curto, médio e longo prazo**[19][20], estabelecendo etapas intermediárias para acompanhar, reavaliar e manter a viabilidade dos seus planos[21][22].
+**Instituição:** Banco Central do Brasil
 
----
+**Link:** https://www.bcb.gov.br/cidadaniafinanceira
 
-### **4\. Utilizar o Crédito com Responsabilidade e Prevenir o Endividamento Excessivo**
-
-* **Conhecimento e Habilidade a Desenvolver:** Compreender que o crédito é uma fonte adicional de recursos de terceiros que antecipa o consumo mediante o pagamento de juros[23]. Aprender a consultar e comparar o **Custo Efetivo Total (CET)** das operações[26], entender a dinâmica dos juros compostos no tempo[27][28] e dominar etapas estratégicas para sair de dívidas (tomar consciência, mapear valores, interromper novos débitos, renegociar condições e cortar gastos)[16].
+**Motivo da escolha:** Fonte institucional que apresenta conceitos relacionados à organização financeira, planejamento e uso consciente dos recursos financeiros.
 
 ---
 
-### **5\. Cultivar o Hábito de Poupar e Analisar Opções de Investimento**
+## Fonte 2 — Comissão de Valores Mobiliários (CVM)
 
-* **Conhecimento e Habilidade a Desenvolver:** Incorporar a estratégia de **"pagar-se primeiro"**, reservando a parcela destinada à poupança logo no recebimento da renda[32]. Diferenciar o ato de poupar do produto "caderneta de poupança"[32], reconhecer seu **perfil de risco** (conservador, moderado ou arrojado)[38][39] e avaliar investimentos a partir do tripé fundamental: **liquidez, risco e rentabilidade**[35].
+**Material:** Portal do Investidor
 
----
+**Instituição:** Comissão de Valores Mobiliários
 
-### **6\. Construir Reservas de Emergência e Estruturar o Planejamento de Futuro**
+**Link:** https://www.gov.br/investidor/pt-br
 
-* **Conhecimento e Habilidade a Desenvolver:** Calcular e constituir uma **reserva para emergências** (montante equivalente de 3 a 12 meses do custo de vida) aplicada em investimentos de baixo risco e resgate imediato[42]. Além disso, compreender a importância da transferência de riscos por meio de seguros[48] e da preparação financeira precoce para a aposentadoria, aproveitando o tempo a favor da capitalização dos recursos[51].**
-
-## ❓ Perguntas estratégicas
-
-Perguntas utilizadas para orientar o estudo:
-
-### **1\. Qual é o objetivo básico da gestão do orçamento pessoal ou familiar, como ele se organiza em etapas práticas e por que a estratégia de "pagar-se primeiro" é mais eficiente do que poupar apenas o que sobra?**
-
-**Resposta resumida:** O objetivo básico da boa gestão financeira é manter o orçamento superavitário, garantindo que as despesas sejam estritamente menores que as receitas[1][2]. A elaboração do orçamento ocorre em quatro etapas práticas: planejamento (estimar receitas e despesas futuras), registro (anotar diariamente todos os ganhos e gastos), agrupamento (categorizar despesas em habitação, alimentação, transporte, etc.) e avaliação (refletir sobre o resultado e cortar gastos desnecessários)[3]. A estratégia de **"pagar-se primeiro"** consiste em separar a parcela destinada à poupança ou investimentos imediatamente ao receber a renda, tratando a reserva financeira como um compromisso prioritário[8][9]. Essa prática é mais eficiente do que esperar o fim do mês, pois o dinheiro não reservado tende a ser gasto com despesas não planejadas ao longo do período, resultando em pouca ou nenhuma sobra[10].
-
-* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[1].
+**Motivo da escolha:** Fonte oficial com informações sobre investimentos, riscos, produtos financeiros e comportamento do investidor.
 
 ---
 
-### **2\. Como a diferenciação entre necessidades e desejos, combinada com o conceito de "troca intertemporal", estimula decisões de consumo mais conscientes e críticas?**
+## Fonte 3 — Comissão de Valores Mobiliários (CVM)
 
-**Resposta resumida:** **Necessidades** são itens indispensáveis à sobrevivência e independentes da vontade (como alimentação básica e moradia), enquanto **desejos** referem-se à forma como se almeja satisfazer essas necessidades ou usufruir de bens não essenciais[11][12]. Tratar desejos como se fossem necessidades compromete a saúde financeira, pois os desejos humanos são ilimitados, mas os recursos financeiros são limitados[13]. A **troca intertemporal** analisa o impacto das escolhas presentes sobre o futuro: antecipar o consumo por meio de empréstimos gera o custo de pagamento de juros (posição devedora), enquanto adiar o consumo e poupar gera rendimentos e amplia o poder de barganha para obter descontos à vista (posição credora)[14].
+**Material:** Educação Financeira
 
-* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[11].
+**Instituição:** Comissão de Valores Mobiliários
 
----
+**Link:** https://www.gov.br/cvm/pt-br/assuntos/educacao-e-protecao
 
-### **3\. Qual é a diferença prática entre um "sonho" e um "projeto" no planejamento financeiro e quais são os passos necessários para tirar um objetivo do papel?**
-
-**Resposta resumida:** Um **sonho** é uma aspiração, desejo vivo ou ideia abstrata que traz motivação, enquanto um **projeto** é esse sonho estruturado, planejado e colocado "no papel" com metas e ações concretas[19]. Para transformar um sonho em projeto, as fontes orientam a execução de cinco passos práticos: 1) definir exatamente onde quer chegar (especificando o bem ou serviço); 2) estabelecer metas claras e objetivas de valor e prazo; 3) internalizar uma visão motivadora de futuro; 4) criar etapas intermediárias para acompanhar o progresso e ajustar o trajeto diante de imprevistos; e 5) comemorar as conquistas intermediárias para manter a motivação e a disciplina[22].
-
-* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[19].
+**Motivo da escolha:** Fonte institucional utilizada para complementar os conceitos relacionados à educação financeira e ao mercado de investimentos.
 
 ---
 
-### **4\. Qual é a função da reserva de emergência no planejamento financeiro, qual montante é recomendado acumular e quais critérios devem guiar a escolha do investimento?**
+## Fonte 4 — Banco Central do Brasil
 
-**Resposta resumida:** A reserva de emergência funciona como um "colchão de proteção financeira" voltado para cobrir despesas imprevistas (como desemprego, problemas de saúde ou reparos urgentes), garantindo a estabilidade e evitando o endividamento[28]. O montante ideal recomendado varia entre 3 e 12 meses do custo de vida ou despesas correntes do indivíduo ou família[32]. O recurso deve ser aplicado obrigatoriamente em investimentos de **baixo risco de crédito** e **alta liquidez (resgate imediato)**, pois o objetivo central é a segurança e a disponibilidade rápida do capital, e não a busca por alta rentabilidade[31].
+**Material:** Relatório de Cidadania Financeira
 
-* **Fontes utilizadas:** *GUIA planejamento financeiro.pdf*[28]; *Planejamento e gestão de reservas financeiras.*[30]; *caderno\_cidadania\_financeira.pdf*[36]; *versao-digital-CVM\_livro\_top\_planejamento\_financeiro\_pessoal (2).pdf*[34].
+**Instituição:** Banco Central do Brasil
 
----
+**Link:** https://www.bcb.gov.br/cidadaniafinanceira
 
-### **5\. De que forma os juros compostos atuam ao longo do tempo e por que iniciar a poupança precocemente reduz o esforço financeiro para atingir metas de longo prazo?**
-
-**Resposta resumida:** Diferente dos juros simples (calculados apenas sobre o capital inicial), os **juros compostos** são incorporados ao principal a cada período, gerando o efeito de "juros sobre juros"[39][40]. Devido ao efeito exponencial, a variável tempo potencializa significativamente os rendimentos acumulados[41][42]. Quem começa a poupar e investir mais cedo aproveita a capitalização por um período prolongado e precisa desembolsar muito menos capital próprio do bolso para atingir a mesma meta futura quando comparado a quem adia o início da poupança por alguns anos[41].
-
-* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[39]; *versao-digital-CVM\_livro\_top\_planejamento\_financeiro\_pessoal (2).pdf*[42].
+**Motivo da escolha:** Utilizado como fonte complementar para compreender aspectos relacionados ao comportamento financeiro e à cidadania financeira.
 
 ---
 
-### **6\. O que é o Custo Efetivo Total (CET) em operações de crédito e por que avaliar apenas se a prestação mensal "cabe no bolso" é uma armadilha financeira?**
+# 🤖 Uso do NotebookLM
 
-**Resposta resumida:** O **Custo Efetivo Total (CET)** é a taxa percentual anual que informa o custo real de um empréstimo ou financiamento, englobando a taxa de juros, tarifas administrativas, tributos (como o IOF) e seguros cobrados na operação[46][47]. Avaliar apenas se o valor da parcela mensal "cabe no bolso" é inadequado pois esconde encargos embutidos e taxas elevadas que comprometem a renda futura do tomador[48][49]. A comparação do CET entre diferentes instituições financeiras é o único meio eficaz de identificar a proposta mais vantajosa e evitar modalidades de "crédito fácil" que elevam o risco de superendividamento[46][50].
+O NotebookLM foi utilizado como ferramenta de apoio ao processo de aprendizagem.
 
-* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[46]; *versao-digital-CVM\_livro\_top\_planejamento\_financeiro\_pessoal (2).pdf*[47].
+As fontes selecionadas foram adicionadas ao caderno temático para permitir:
+
+- Consulta às informações das fontes;
+- Criação de resumos;
+- Comparação entre conceitos;
+- Identificação de conceitos importantes;
+- Criação de perguntas para revisão;
+- Organização do conhecimento;
+- Construção do miniguia de estudos.
+
+O objetivo não foi apenas obter respostas da Inteligência Artificial, mas utilizar a ferramenta para **pesquisar, questionar, verificar e organizar o conhecimento**.
 
 ---
 
-### **7\. O que caracteriza o endividamento excessivo e quais passos práticos devem ser adotados para reorganizar as finanças e quitar as dívidas de forma estruturada?**
+# 🧠 Engenharia de Prompts e "Cicatrizes"
 
-**Resposta resumida:** O endividamento excessivo ocorre quando as dívidas assumidas superam a capacidade de pagamento do indivíduo, gerando descontrole no orçamento e comprometendo a qualidade de vida[51][52]. Para se livrar do endividamento excessivo, as fontes recomendam uma sequência prática de cinco passos: 1) tomar consciência da situação e assumir o compromisso de resolvê-la; 2) mapear detalhadamente todas as dívidas (valores, prazos e taxas de juros); 3) interromper a geração de novas dívidas; 4) renegociar com os credores, trocando dívidas mais caras por opções com juros menores ou utilizando a portabilidade de crédito; e 5) cortar gastos, eliminando desperdícios, reduzindo supérfluos e otimizando despesas necessárias com a colaboração de toda a família[53].
+Durante o desenvolvimento do projeto foram realizados testes com diferentes formas de elaboração de prompts.
 
-* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[51].**
+O objetivo foi observar como mudanças na estrutura das perguntas poderiam melhorar a qualidade, organização e utilidade das respostas.
 
-## ✨ Experimentação de prompts
+## Prompt Inicial
 
-Foram testadas diferentes formas de formular prompts para observar como a estrutura das instruções influencia as respostas da IA.
+> Explique os principais conceitos de educação financeira presentes nas fontes do NotebookLM.
 
- **1. Planejamento FinanceiroDefinição: Processo contínuo que ajuda indivíduos e famílias a organizarem suas finanças por meio da elaboração de estratégias práticas, permitindo alcançar seus objetivos de vida e gerenciar os recursos com autonomia12.Exemplo Prático: Mapear os objetivos de curto, médio e longo prazo (como fazer uma viagem no fim do ano, comprar um imóvel ou garantir uma aposentadoria tranquila) e definir o valor exato a ser poupado mensalmente para cada meta3more_horiz.Fonte(s): GUIA planejamento financeiro.pdf13 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf2more_horiz.2. Orçamento Doméstico (ou Pessoal)Definição: Ferramenta básica de planejamento que estima e registra todas as receitas (rendas) e despesas (gastos) de uma pessoa ou família ao longo de um determinado período (geralmente mensal ou anual)6more_horiz.Exemplo Prático: Criar uma planilha ou anotação no caderno onde consta o salário recebido no topo e, abaixo, o detalhamento das contas de água, luz, aluguel, feira e lazer69.Fonte(s): caderno_cidadania_financeira.pdf7more_horiz e GUIA planejamento financeiro.pdf6.3. Orçamento Superavitário e "Pagar-se Primeiro"Definição: Situação financeira em que o total de receitas é estritamente maior do que o total de despesas no mês ($R > D$)1011. A estratégia de "pagar-se primeiro" consiste em separar a quantia destinada à poupança logo ao receber a renda, tratando o investimento pessoal como um compromisso prioritário em vez de esperar pelo que "sobra" no final do mês1213.Exemplo Prático: Assim que o salário de R$ 3.000 é depositado na conta, a pessoa transfere R$ 300 imediatamente para sua reserva de investimento e passa a gerir suas contas e consumo do mês com os R$ 2.700 restantes1214.Fonte(s): caderno_cidadania_financeira.pdf10more_horiz.4. Reserva de EmergênciaDefinição: Montante acumulado especificamente para proteger o indivíduo ou família contra imprevistos e incertezas (como desemprego, problemas de saúde ou reparos urgentes), evitando o recurso a empréstimos e o endividamento15more_horiz.Exemplo Prático: Juntar o equivalente a 3 a 12 meses do custo de vida mensal e manter esse dinheiro aplicado em uma opção de baixo risco e resgate imediato (como o Tesouro Selic)18more_horiz.Fonte(s): Planejamento e gestão de reservas financeiras.1619, GUIA planejamento financeiro.pdf1518 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf17more_horiz.5. Troca IntertemporalDefinição: Escolha financeira que analisa o impacto das decisões tomadas hoje (no presente) sobre a vida financeira de amanhã (no futuro)22. Envolve optar entre antecipar o consumo pagando juros (posição devedora) ou adiar o consumo poupando para receber rendimentos (posição credora)23more_horiz.Exemplo Prático: Escolher entre comprar um computador hoje financiado em 12 parcelas com juros ou adiar a compra por 4 meses, aplicando o dinheiro para comprá-lo à vista com desconto e ainda receber rendimentos23more_horiz.Fonte(s): caderno_cidadania_financeira.pdf22more_horiz.6. Necessidade vs. DesejoDefinição: Necessidades são bens ou serviços indispensáveis à vida e sobrevivência (independentes da vontade)2627. Desejos referem-se às vontades de usufruir ou à forma específica escolhida para satisfazer essas necessidades2627.Exemplo Prático: Alimentar-se diariamente é uma necessidade básica; optar por fazer essa refeição em um restaurante de luxo é um desejo26.Fonte(s): caderno_cidadania_financeira.pdf2627.7. Custo de OportunidadeDefinição: Conceito econômico que representa o valor, benefício ou oportunidade de que se abre mão (renúncia) ao escolher determinada opção em detrimento de outra2829.Exemplo Prático: Ao gastar uma sobra de R$ 1.000 em uma viagem rápida de fim de semana, o custo de oportunidade é o rendimento que esse dinheiro deixará de gerar se estivesse aplicado em um investimento de longo prazo2930.Fonte(s): caderno_cidadania_financeira.pdf28more_horiz.8. CréditoDefinição: Recursos financeiros obtidos junto a terceiros (como bancos, financeiras ou cooperativas) que possibilitam a antecipação do consumo para a aquisição de bens ou serviços mediante o compromisso de devolução futura com o acréscimo de juros3132.Exemplo Prático: Utilizar o cartão de crédito ou tomar um empréstimo consignado para comprar um veículo novo antes de ter acumulado todo o valor necessário em dinheiro3133.Fonte(s): caderno_cidadania_financeira.pdf31more_horiz.9. Juros CompostosDefinição: Modalidade de cobrança ou rendimento em que os juros de cada período são incorporados ao valor principal, passando a render novos juros nos períodos seguintes (o efeito exponencial de "juros sobre juros")3435.Exemplo Prático: Investir R$ 1.000 a uma taxa de 5% ao mês; no primeiro mês o saldo vai para R$ 1.050 e, no segundo mês, os 5% incidem sobre R$ 1.050 (gerando R$ 52,50 de rendimento e saldo de R$ 1.102,50)34.Fonte(s): caderno_cidadania_financeira.pdf34 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf35.10. Custo Efetivo Total (CET)Definição: Taxa percentual (expressa ao ano) que informa o custo real de uma operação de empréstimo ou financiamento, englobando a taxa de juros negociada, tarifas bancárias, tributos (como o IOF) e seguros cobrados36more_horiz.Exemplo Prático: Ao contratar um financiamento informado com juros de 12% ao ano, o cálculo final com a inclusão de R$ 60 de taxas administrativas e IOF pode resultar em um CET real de 43,93% ao ano39.Fonte(s): caderno_cidadania_financeira.pdf3639 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf3738.11. Endividamento ExcessivoDefinição: Estágio crítico em que o montante acumulado de dívidas e compromissos financeiros supera a capacidade de pagamento do indivíduo, comprometendo o orçamento essencial e reduzindo o bem-estar e a qualidade de vida40more_horiz.Exemplo Prático: Quando uma pessoa compromete mais de 45% da sua renda mensal líquida apenas para pagar parcelas de empréstimos e cartões de crédito, ficando sem saldo para cobrir despesas essenciais4344.Fonte(s): caderno_cidadania_financeira.pdf40more_horiz e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf44.12. Tripé dos Investimentos (Liquidez, Risco e Rentabilidade)Definição: As três características fundamentais que regem qualquer aplicação financeira: Liquidez (facilidade de converter o ativo em dinheiro vivo a preço justo)4546; Risco (probabilidade de ocorrência de perdas do capital)4748; e Rentabilidade (retorno ou remuneração esperada do investimento)4950.Exemplo Prático: Entender que investimentos com liquidez diária e risco quase nulo (como a caderneta de poupança ou Tesouro Selic) pagarão rentabilidades menores, pois não existe aplicação financeira no mercado que ofereça liquidez alta, risco baixo e rentabilidade elevada simultaneamente5152.Fonte(s): caderno_cidadania_financeira.pdf45more_horiz e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf46more_horiz.**
+### Resultado observado
 
-## 📝 Resumo estruturado
+A resposta apresentou conceitos gerais, porém sem uma organização suficientemente detalhada para servir como material de estudo.
 
-**1. Planejamento FinanceiroDefinição: Processo contínuo que ajuda indivíduos e famílias a organizarem suas finanças por meio da elaboração de estratégias práticas, permitindo alcançar seus objetivos de vida e gerenciar os recursos com autonomia12.Exemplo Prático: Mapear os objetivos de curto, médio e longo prazo (como fazer uma viagem no fim do ano, comprar um imóvel ou garantir uma aposentadoria tranquila) e definir o valor exato a ser poupado mensalmente para cada meta3more_horiz.Fonte(s): GUIA planejamento financeiro.pdf13 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf2more_horiz.2. Orçamento Doméstico (ou Pessoal)Definição: Ferramenta básica de planejamento que estima e registra todas as receitas (rendas) e despesas (gastos) de uma pessoa ou família ao longo de um determinado período (geralmente mensal ou anual)6more_horiz.Exemplo Prático: Criar uma planilha ou anotação no caderno onde consta o salário recebido no topo e, abaixo, o detalhamento das contas de água, luz, aluguel, feira e lazer69.Fonte(s): caderno_cidadania_financeira.pdf7more_horiz e GUIA planejamento financeiro.pdf6.3. Orçamento Superavitário e "Pagar-se Primeiro"Definição: Situação financeira em que o total de receitas é estritamente maior do que o total de despesas no mês ($R > D$)1011. A estratégia de "pagar-se primeiro" consiste em separar a quantia destinada à poupança logo ao receber a renda, tratando o investimento pessoal como um compromisso prioritário em vez de esperar pelo que "sobra" no final do mês1213.Exemplo Prático: Assim que o salário de R$ 3.000 é depositado na conta, a pessoa transfere R$ 300 imediatamente para sua reserva de investimento e passa a gerir suas contas e consumo do mês com os R$ 2.700 restantes1214.Fonte(s): caderno_cidadania_financeira.pdf10more_horiz.4. Reserva de EmergênciaDefinição: Montante acumulado especificamente para proteger o indivíduo ou família contra imprevistos e incertezas (como desemprego, problemas de saúde ou reparos urgentes), evitando o recurso a empréstimos e o endividamento15more_horiz.Exemplo Prático: Juntar o equivalente a 3 a 12 meses do custo de vida mensal e manter esse dinheiro aplicado em uma opção de baixo risco e resgate imediato (como o Tesouro Selic)18more_horiz.Fonte(s): Planejamento e gestão de reservas financeiras.1619, GUIA planejamento financeiro.pdf1518 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf17more_horiz.5. Troca IntertemporalDefinição: Escolha financeira que analisa o impacto das decisões tomadas hoje (no presente) sobre a vida financeira de amanhã (no futuro)22. Envolve optar entre antecipar o consumo pagando juros (posição devedora) ou adiar o consumo poupando para receber rendimentos (posição credora)23more_horiz.Exemplo Prático: Escolher entre comprar um computador hoje financiado em 12 parcelas com juros ou adiar a compra por 4 meses, aplicando o dinheiro para comprá-lo à vista com desconto e ainda receber rendimentos23more_horiz.Fonte(s): caderno_cidadania_financeira.pdf22more_horiz.6. Necessidade vs. DesejoDefinição: Necessidades são bens ou serviços indispensáveis à vida e sobrevivência (independentes da vontade)2627. Desejos referem-se às vontades de usufruir ou à forma específica escolhida para satisfazer essas necessidades2627.Exemplo Prático: Alimentar-se diariamente é uma necessidade básica; optar por fazer essa refeição em um restaurante de luxo é um desejo26.Fonte(s): caderno_cidadania_financeira.pdf2627.7. Custo de OportunidadeDefinição: Conceito econômico que representa o valor, benefício ou oportunidade de que se abre mão (renúncia) ao escolher determinada opção em detrimento de outra2829.Exemplo Prático: Ao gastar uma sobra de R$ 1.000 em uma viagem rápida de fim de semana, o custo de oportunidade é o rendimento que esse dinheiro deixará de gerar se estivesse aplicado em um investimento de longo prazo2930.Fonte(s): caderno_cidadania_financeira.pdf28more_horiz.8. CréditoDefinição: Recursos financeiros obtidos junto a terceiros (como bancos, financeiras ou cooperativas) que possibilitam a antecipação do consumo para a aquisição de bens ou serviços mediante o compromisso de devolução futura com o acréscimo de juros3132.Exemplo Prático: Utilizar o cartão de crédito ou tomar um empréstimo consignado para comprar um veículo novo antes de ter acumulado todo o valor necessário em dinheiro3133.Fonte(s): caderno_cidadania_financeira.pdf31more_horiz.9. Juros CompostosDefinição: Modalidade de cobrança ou rendimento em que os juros de cada período são incorporados ao valor principal, passando a render novos juros nos períodos seguintes (o efeito exponencial de "juros sobre juros")3435.Exemplo Prático: Investir R$ 1.000 a uma taxa de 5% ao mês; no primeiro mês o saldo vai para R$ 1.050 e, no segundo mês, os 5% incidem sobre R$ 1.050 (gerando R$ 52,50 de rendimento e saldo de R$ 1.102,50)34.Fonte(s): caderno_cidadania_financeira.pdf34 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf35.10. Custo Efetivo Total (CET)Definição: Taxa percentual (expressa ao ano) que informa o custo real de uma operação de empréstimo ou financiamento, englobando a taxa de juros negociada, tarifas bancárias, tributos (como o IOF) e seguros cobrados36more_horiz.Exemplo Prático: Ao contratar um financiamento informado com juros de 12% ao ano, o cálculo final com a inclusão de R$ 60 de taxas administrativas e IOF pode resultar em um CET real de 43,93% ao ano39.Fonte(s): caderno_cidadania_financeira.pdf3639 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf3738.11. Endividamento ExcessivoDefinição: Estágio crítico em que o montante acumulado de dívidas e compromissos financeiros supera a capacidade de pagamento do indivíduo, comprometendo o orçamento essencial e reduzindo o bem-estar e a qualidade de vida40more_horiz.Exemplo Prático: Quando uma pessoa compromete mais de 45% da sua renda mensal líquida apenas para pagar parcelas de empréstimos e cartões de crédito, ficando sem saldo para cobrir despesas essenciais4344.Fonte(s): caderno_cidadania_financeira.pdf40more_horiz e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf44.12. Tripé dos Investimentos (Liquidez, Risco e Rentabilidade)Definição: As três características fundamentais que regem qualquer aplicação financeira: Liquidez (facilidade de converter o ativo em dinheiro vivo a preço justo)4546; Risco (probabilidade de ocorrência de perdas do capital)4748; e Rentabilidade (retorno ou remuneração esperada do investimento)4950.Exemplo Prático: Entender que investimentos com liquidez diária e risco quase nulo (como a caderneta de poupança ou Tesouro Selic) pagarão rentabilidades menores, pois não existe aplicação financeira no mercado que ofereça liquidez alta, risco baixo e rentabilidade elevada simultaneamente5152.Fonte(s): caderno_cidadania_financeira.pdf45more_horiz e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf46more_horiz.**
+---
 
-## 📖 Glossário
+## Prompt 2 — Mais Específico
 
-> **1. Planejamento FinanceiroDefinição: Processo contínuo que ajuda indivíduos e famílias a organizarem suas finanças por meio da elaboração de estratégias práticas, permitindo alcançar seus objetivos de vida e gerenciar os recursos com autonomia12.Exemplo Prático: Mapear os objetivos de curto, médio e longo prazo (como fazer uma viagem no fim do ano, comprar um imóvel ou garantir uma aposentadoria tranquila) e definir o valor exato a ser poupado mensalmente para cada meta3more_horiz.Fonte(s): GUIA planejamento financeiro.pdf13 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf2more_horiz.2. Orçamento Doméstico (ou Pessoal)Definição: Ferramenta básica de planejamento que estima e registra todas as receitas (rendas) e despesas (gastos) de uma pessoa ou família ao longo de um determinado período (geralmente mensal ou anual)6more_horiz.Exemplo Prático: Criar uma planilha ou anotação no caderno onde consta o salário recebido no topo e, abaixo, o detalhamento das contas de água, luz, aluguel, feira e lazer69.Fonte(s): caderno_cidadania_financeira.pdf7more_horiz e GUIA planejamento financeiro.pdf6.3. Orçamento Superavitário e "Pagar-se Primeiro"Definição: Situação financeira em que o total de receitas é estritamente maior do que o total de despesas no mês ($R > D$)1011. A estratégia de "pagar-se primeiro" consiste em separar a quantia destinada à poupança logo ao receber a renda, tratando o investimento pessoal como um compromisso prioritário em vez de esperar pelo que "sobra" no final do mês1213.Exemplo Prático: Assim que o salário de R$ 3.000 é depositado na conta, a pessoa transfere R$ 300 imediatamente para sua reserva de investimento e passa a gerir suas contas e consumo do mês com os R$ 2.700 restantes1214.Fonte(s): caderno_cidadania_financeira.pdf10more_horiz.4. Reserva de EmergênciaDefinição: Montante acumulado especificamente para proteger o indivíduo ou família contra imprevistos e incertezas (como desemprego, problemas de saúde ou reparos urgentes), evitando o recurso a empréstimos e o endividamento15more_horiz.Exemplo Prático: Juntar o equivalente a 3 a 12 meses do custo de vida mensal e manter esse dinheiro aplicado em uma opção de baixo risco e resgate imediato (como o Tesouro Selic)18more_horiz.Fonte(s): Planejamento e gestão de reservas financeiras.1619, GUIA planejamento financeiro.pdf1518 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf17more_horiz.5. Troca IntertemporalDefinição: Escolha financeira que analisa o impacto das decisões tomadas hoje (no presente) sobre a vida financeira de amanhã (no futuro)22. Envolve optar entre antecipar o consumo pagando juros (posição devedora) ou adiar o consumo poupando para receber rendimentos (posição credora)23more_horiz.Exemplo Prático: Escolher entre comprar um computador hoje financiado em 12 parcelas com juros ou adiar a compra por 4 meses, aplicando o dinheiro para comprá-lo à vista com desconto e ainda receber rendimentos23more_horiz.Fonte(s): caderno_cidadania_financeira.pdf22more_horiz.6. Necessidade vs. DesejoDefinição: Necessidades são bens ou serviços indispensáveis à vida e sobrevivência (independentes da vontade)2627. Desejos referem-se às vontades de usufruir ou à forma específica escolhida para satisfazer essas necessidades2627.Exemplo Prático: Alimentar-se diariamente é uma necessidade básica; optar por fazer essa refeição em um restaurante de luxo é um desejo26.Fonte(s): caderno_cidadania_financeira.pdf2627.7. Custo de OportunidadeDefinição: Conceito econômico que representa o valor, benefício ou oportunidade de que se abre mão (renúncia) ao escolher determinada opção em detrimento de outra2829.Exemplo Prático: Ao gastar uma sobra de R$ 1.000 em uma viagem rápida de fim de semana, o custo de oportunidade é o rendimento que esse dinheiro deixará de gerar se estivesse aplicado em um investimento de longo prazo2930.Fonte(s): caderno_cidadania_financeira.pdf28more_horiz.8. CréditoDefinição: Recursos financeiros obtidos junto a terceiros (como bancos, financeiras ou cooperativas) que possibilitam a antecipação do consumo para a aquisição de bens ou serviços mediante o compromisso de devolução futura com o acréscimo de juros3132.Exemplo Prático: Utilizar o cartão de crédito ou tomar um empréstimo consignado para comprar um veículo novo antes de ter acumulado todo o valor necessário em dinheiro3133.Fonte(s): caderno_cidadania_financeira.pdf31more_horiz.9. Juros CompostosDefinição: Modalidade de cobrança ou rendimento em que os juros de cada período são incorporados ao valor principal, passando a render novos juros nos períodos seguintes (o efeito exponencial de "juros sobre juros")3435.Exemplo Prático: Investir R$ 1.000 a uma taxa de 5% ao mês; no primeiro mês o saldo vai para R$ 1.050 e, no segundo mês, os 5% incidem sobre R$ 1.050 (gerando R$ 52,50 de rendimento e saldo de R$ 1.102,50)34.Fonte(s): caderno_cidadania_financeira.pdf34 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf35.10. Custo Efetivo Total (CET)Definição: Taxa percentual (expressa ao ano) que informa o custo real de uma operação de empréstimo ou financiamento, englobando a taxa de juros negociada, tarifas bancárias, tributos (como o IOF) e seguros cobrados36more_horiz.Exemplo Prático: Ao contratar um financiamento informado com juros de 12% ao ano, o cálculo final com a inclusão de R$ 60 de taxas administrativas e IOF pode resultar em um CET real de 43,93% ao ano39.Fonte(s): caderno_cidadania_financeira.pdf3639 e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf3738.11. Endividamento ExcessivoDefinição: Estágio crítico em que o montante acumulado de dívidas e compromissos financeiros supera a capacidade de pagamento do indivíduo, comprometendo o orçamento essencial e reduzindo o bem-estar e a qualidade de vida40more_horiz.Exemplo Prático: Quando uma pessoa compromete mais de 45% da sua renda mensal líquida apenas para pagar parcelas de empréstimos e cartões de crédito, ficando sem saldo para cobrir despesas essenciais4344.Fonte(s): caderno_cidadania_financeira.pdf40more_horiz e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf44.12. Tripé dos Investimentos (Liquidez, Risco e Rentabilidade)Definição: As três características fundamentais que regem qualquer aplicação financeira: Liquidez (facilidade de converter o ativo em dinheiro vivo a preço justo)4546; Risco (probabilidade de ocorrência de perdas do capital)4748; e Rentabilidade (retorno ou remuneração esperada do investimento)4950.Exemplo Prático: Entender que investimentos com liquidez diária e risco quase nulo (como a caderneta de poupança ou Tesouro Selic) pagarão rentabilidades menores, pois não existe aplicação financeira no mercado que ofereça liquidez alta, risco baixo e rentabilidade elevada simultaneamente5152.Fonte(s): caderno_cidadania_financeira.pdf45more_horiz e versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf46more_horiz.**
+> Com base exclusivamente nas fontes disponíveis no NotebookLM, explique os principais conceitos de educação financeira. Para cada conceito, apresente uma definição simples, um exemplo prático e indique quais fontes sustentam a explicação.
 
-## 🗺️ Miniguia de estudos
+### Resultado observado
 
-> **Este miniguia de estudos foi estruturado em 7 etapas progressivas para orientar quem está começando a organizar sua vida financeira, utilizando exclusivamente as informações presentes nas fontes do notebook.Etapa 1: Diagnóstico da Vida FinanceiraO que estudar: Como levantar a real situação financeira atual por meio da elaboração de um balanço patrimonial pessoal ou familiar, identificando a riqueza acumulada até o momento1more_horiz.Principais conceitos:Ativos: Bens e direitos a receber que possuem valor de mercado ou geram receita (como imóveis, veículos, dinheiro guardado e aplicações financeiras)14.Passivos: Obrigações, dívidas e empréstimos a pagar, divididos entre curto e longo prazo15.Patrimônio Líquido: Indicador da riqueza pessoal obtido pela diferença entre os ativos e os passivos ($\text{Ativos} - \text{Passivos}$), podendo ser positivo ou negativo1more_horiz.Pergunta para reflexão: "Meu patrimônio líquido atual é positivo ou negativo, e os meus bens estão gerando receitas ou apenas despesas?"46.Ação prática: Monte uma tabela com duas colunas: de um lado, liste todos os seus bens e direitos pelo valor atual de mercado (ativos) e, do outro, todas as suas dívidas e obrigações a vencer (passivos); subtraia o total de passivos do total de ativos para descobrir seu patrimônio líquido1more_horiz.Etapa 2: Organização das Receitas e DespesasO que estudar: O mapeamento, o acompanhamento diário e a categorização detalhada de todas as entradas e saídas de dinheiro8more_horiz.Principais conceitos:Receitas e Despesas Fixas vs. Variáveis: Valores fixos são constantes ou mudam muito pouco mês a mês (como salário e aluguel), enquanto valores variáveis flutuam conforme o consumo ou ganhos pontuais (como conta de luz ou comissões)1112.Compromissos Sazonais: Gastos periódicos previsíveis que ocorrem apenas em certas épocas do ano (como impostos, seguros e material escolar) e rendas extras anuais (como o 13º salário)10more_horiz.Classificação dos Gastos: Separação das despesas entre necessárias (imprescindíveis para viver), supérfluas (gastos que geram bem-estar e atendem a desejos) e desperdícios (gastos que não trazem satisfação nem suprem necessidades)15.Pergunta para reflexão: "Eu sei exatamente para onde vai o meu dinheiro ao longo do mês e consigo identificar quais gastos são essenciais e quais são desperdícios?"9more_horiz.Ação prática: Durante 30 dias, anote diariamente todas as receitas e despesas em um caderno, planilha ou aplicativo, guardando recibos e conferindo extratos bancários para não esquecer nenhum valor10more_horiz.Etapa 3: Construção do OrçamentoO que estudar: O processo de estimar e gerenciar receitas e despesas futuras para manter a saúde financeira sob controle19more_horiz.Principais conceitos:Situações do Orçamento: O orçamento pode ser deficitário (despesas maiores que receitas, $D > R$), neutro ($D = R$) ou superavitário (despesas menores que receitas, $D < R$), sendo o orçamento superavitário a meta básica das finanças22more_horiz.Etapas do Orçamento: Processo dividido em quatro etapas: planejamento (estimativa futura), registro (anotação), agrupamento (por categorias como alimentação e moradia) e avaliação (reflexão e cortes)16more_horiz.Pagar-se Primeiro: Estratégia de separar a quantia destinada à poupança logo ao receber a renda, tratando a reserva pessoal como compromisso prioritário em vez de esperar pelo que "sobra" no final do mês2526.Pergunta para reflexão: "Meu orçamento é superavitário e estou priorizando 'pagar-me primeiro' ao receber minha renda, ou estou esperando sobrar dinheiro no fim do mês?"16more_horiz.Ação prática: Elabore uma tabela orçamentária projetando suas receitas e despesas para o próximo mês, dividindo os gastos em grupos e garantindo que o total de despesas seja menor que o total de receitas8more_horiz.Etapa 4: Planejamento FinanceiroO que estudar: Como estabelecer estratégias para transformar aspirações e alinhar escolhas de consumo presentes e futuras28more_horiz.Principais conceitos:Sonho vs. Projeto: Sonho é uma aspiração abstrata ou ideia que se quer alcançar; projeto é o sonho estruturado no papel com metas claras, custos e prazos definidos3233.Necessidade vs. Desejo: Necessidades são indispensáveis à sobrevivência e independentes da vontade; desejos são vontades de usufruir ou formas específicas de satisfazer necessidades3435.Troca Intertemporal: Análise do impacto das decisões presentes sobre o futuro, escolhendo entre antecipar o consumo (assumindo dívidas e juros) ou adiar o consumo (poupando para receber rendimentos)3036.Custo de Oportunidade: Benefício ou oportunidade de que se abre mão ao fazer determinada escolha financeira em vez de outra37.Pergunta para reflexão: "Estou confundindo meus desejos com necessidades e assumindo juros no presente sem avaliar o custo de oportunidade sobre meu futuro?"30more_horiz.Ação prática: Escolha um sonho pessoal, defina com precisão o que deseja adquirir, determine o valor exato, estipule o prazo (curto, médio ou longo prazo) e calcule a quantia mensal necessária para juntar o dinheiro39more_horiz.Etapa 5: Reserva de EmergênciaO que estudar: Como criar e gerenciar um fundo de proteção voltado especificamente para cobrir imprevistos e incertezas sem gerar endividamento4243.Principais conceitos:Colchão de Proteção Financeira: Montante acumulado para suprir despesas emergenciais (como desemprego, problemas de saúde ou reformas urgentes)42more_horiz.Dimensionamento da Reserva: Quantia equivalente a um período de 3 a 12 meses do custo de vida ou despesas essenciais45more_horiz.Liquidez e Risco: A reserva deve ser mantida em aplicações de baixo risco de crédito e alta liquidez (resgate imediato), pois o foco principal é a segurança e a rapidez de acesso, e não a busca por alta rentabilidade44more_horiz.Pergunta para reflexão: "Se eu perder minha fonte de renda hoje, por quantos meses conseguirei manter minhas contas pagas sem precisar recorrer a empréstimos?"5152.Ação prática: Calcule o valor mensal do seu custo de vida essencial, defina a meta total da sua reserva e programe aportes mensais em um investimento seguro e com resgate diário (como Tesouro Selic ou CDB DI)45more_horiz.Etapa 6: Crédito, Juros e Controle de DívidasO que estudar: O uso consciente do crédito de terceiros, o impacto dos juros no tempo e os passos para se livrar do endividamento excessivo55more_horiz.Principais conceitos:Juros Simples vs. Compostos: Juros simples incidem apenas sobre o valor principal inicial; juros compostos incidem sobre o principal somado aos juros acumulados nos períodos anteriores ("juros sobre juros")5960.Custo Efetivo Total (CET): Taxa percentual anual que informa o custo real de um empréstimo ou financiamento, englobando a taxa de juros, tarifas, tributos e encargos6162.Endividamento Excessivo: Estágio crítico em que as dívidas superam a capacidade de pagamento, comprometendo a qualidade de vida57.Passos para Sair das Dívidas: Sequência prática composta por: 1) tomar consciência; 2) mapear dívidas; 3) não fazer novas dívidas; 4) renegociar condições ou buscar portabilidade; e 5) cortar gastos e desperdícios15more_horiz.Pergunta para reflexão: "Antes de tomar um empréstimo ou parcelar uma compra, eu avaliei o Custo Efetivo Total (CET) e verifiquei se a parcela reduzirá minha capacidade de consumo no futuro?"31more_horiz.Ação prática: Faça um levantamento detalhado de todas as suas dívidas ativas (anotando credor, saldo devedor, prazo e taxa de juros/CET) e procure os credores para renegociar os prazos ou trocar dívidas caras por opções de menor custo63more_horiz.Etapa 7: Introdução à Poupança e aos InvestimentosO que estudar: Como alocar os recursos poupados em aplicações financeiras para rentabilizar o patrimônio de acordo com seus objetivos e tolerância ao risco26more_horiz.Principais conceitos:Poupança vs. Caderneta de Poupança: Poupança é a reserva financeira resultante do ato de economizar; caderneta de poupança é apenas um produto específico de investimento6971.Tripé dos Investimentos: Todo investimento é guiado por três atributos: Liquidez (facilidade de conversão em dinheiro vivo), Risco (probabilidade de perdas) e Rentabilidade (retorno financeiro esperado). É impossível encontrar um investimento real que ofereça nível máximo nos três ao mesmo tempo26more_horiz.Perfil do Investidor: Classificação baseada na aceitação de riscos entre Conservador (foco em segurança), Moderado (equilíbrio entre segurança e retorno) e Arrojado (foco em rentabilidade assumindo riscos maiores)70.Renda Fixa vs. Renda Variável: Renda Fixa paga uma remuneração com taxa predefinida ou atrelada a indexadores; Renda Variável possui retorno imprevisível e envolve maiores riscos75.Pergunta para reflexão: "Eu conheço o meu perfil de investidor e estou ajustando a liquidez e os riscos dos meus investimentos ao prazo das minhas metas?"70more_horiz.Ação prática: Faça um teste de autoconhecimento para identificar seu perfil de investidor, estabeleça prazos para os seus objetivos ("dê nome ao dinheiro") e selecione uma opção de investimento compatível, lendo o regulamento e verificando taxas e tributos70more_horiz.Fontes Utilizadas:caderno_cidadania_financeira.pdf (Banco Central do Brasil)GUIA planejamento financeiro.pdf (Comissão de Valores Mobiliários – CVM)versao-digital-CVM_livro_top_planejamento_financeiro_pessoal (2).pdf (CVM / Planejar)Planejamento e gestão de reservas financeiras. (Portal do Investidor / CVM).**
+A resposta apresentou maior organização e passou a relacionar os conceitos com as fontes utilizadas.
 
-## 🔄 Prompts reutilizáveis
+---
 
-### Prompt para revisão
+## Prompt 3 — Prompt Aprimorado
 
-```text
-Com base exclusivamente nas fontes deste notebook, faça uma revisão dos principais conceitos de educação financeira para iniciantes e destaque os pontos que merecem maior atenção.
-```
+> Com base exclusivamente nas fontes fornecidas, organize os principais conceitos de educação financeira em uma estrutura de estudo. Para cada conceito, apresente: definição, exemplo prático, aplicação no cotidiano e fonte utilizada. Não acrescente informações que não estejam presentes nas fontes.
 
-### Prompt para perguntas
+### Resultado observado
 
-```text
-Crie perguntas de revisão sobre os principais conceitos apresentados nas fontes e forneça respostas fundamentadas nas referências utilizadas.
-```
+O resultado foi mais adequado para a construção do miniguia, pois apresentou os conceitos de maneira estruturada e direcionada para o estudo.
 
-### Prompt para aplicação prática
+---
 
-```text
-Apresente exemplos práticos que ajudem um iniciante a compreender os conceitos de educação financeira apresentados nas fontes.
-```
+## 🔧 Troubleshooting
 
-## 🛠️ Ferramentas utilizadas
+Durante os testes, alguns problemas foram identificados:
 
-* Google NotebookLM
-* GitHub
-* Markdown
+### Problema 1 — Respostas muito genéricas
+
+Quando o prompt era muito amplo, a resposta apresentava informações gerais sem uma estrutura adequada para revisão.
+
+**Solução:** especificar exatamente quais informações deveriam ser apresentadas.
+
+---
+
+### Problema 2 — Falta de referência às fontes
+
+Algumas perguntas não solicitavam explicitamente a indicação das fontes utilizadas.
+
+**Solução:** incluir no prompt a instrução para indicar as fontes que sustentam cada informação.
+
+---
+
+### Problema 3 — Excesso de informações
+
+Quando o objetivo era apenas revisar determinado conceito, respostas muito extensas dificultavam a consulta.
+
+**Solução:** solicitar respostas organizadas em tópicos, tabelas ou resumos estruturados.
+
+---
+
+### Problema 4 — Necessidade de maior controle sobre as informações
+
+Para evitar informações que não fossem provenientes do material selecionado, foi necessário restringir a resposta às fontes disponíveis.
+
+**Solução:** utilizar a instrução:
+
+> "Utilize exclusivamente as fontes fornecidas."
+
+---
+
+# 📝 Resumo Estruturado
+
+## 1. Planejamento Financeiro
+
+### Definição
+
+O planejamento financeiro é o processo de organização dos recursos financeiros com o objetivo de alcançar metas e objetivos.
+
+### Exemplo
+
+Definir uma meta financeira, estabelecer um prazo e determinar quanto deverá ser reservado periodicamente para alcançar essa meta.
+
+---
+
+## 2. Orçamento Doméstico
+
+### Definição
+
+É uma ferramenta utilizada para registrar e organizar receitas e despesas durante determinado período.
+
+### Exemplo
+
+Registrar salário, contas, alimentação, transporte, lazer e demais despesas mensais.
+
+---
+
+## 3. Orçamento Superavitário
+
+### Definição
+
+O orçamento é considerado superavitário quando as receitas são maiores que as despesas.
+
+### Exemplo
+
+Uma pessoa recebe R$ 3.000 e possui R$ 2.500 em despesas. Nesse caso, existe um saldo de R$ 500 que pode ser destinado a objetivos financeiros, poupança ou investimentos.
+
+---
+
+## 4. "Pagar-se Primeiro"
+
+### Definição
+
+Consiste em separar uma quantia destinada à poupança ou investimento antes de realizar os demais gastos.
+
+### Exemplo
+
+Ao receber o salário, separar antecipadamente uma parcela para uma meta financeira.
+
+---
+
+## 5. Reserva de Emergência
+
+### Definição
+
+É uma reserva financeira destinada a situações inesperadas ou emergenciais.
+
+### Exemplo
+
+Guardar recursos para situações como perda de renda, despesas inesperadas ou outros acontecimentos que possam afetar o orçamento.
+
+---
+
+## 6. Necessidade e Desejo
+
+### Necessidade
+
+É aquilo que é essencial para a vida e para o funcionamento básico da pessoa ou família.
+
+### Desejo
+
+É aquilo que representa uma preferência ou vontade de consumo.
+
+### Exemplo
+
+Alimentação é uma necessidade. Escolher um restaurante específico ou uma refeição mais sofisticada pode representar um desejo.
+
+---
+
+## 7. Custo de Oportunidade
+
+### Definição
+
+Representa aquilo que é deixado de obter quando uma alternativa é escolhida em vez de outra.
+
+### Exemplo
+
+Utilizar determinado valor para comprar um produto significa deixar de utilizar esse mesmo valor para outra finalidade.
+
+---
+
+## 8. Troca Intertemporal
+
+### Definição
+
+Representa a relação entre decisões financeiras tomadas no presente e suas consequências no futuro.
+
+### Exemplo
+
+Escolher economizar dinheiro atualmente para alcançar uma meta financeira posteriormente.
+
+---
+
+## 9. Crédito
+
+### Definição
+
+É a possibilidade de utilizar recursos financeiros antecipadamente e realizar o pagamento posteriormente, geralmente com custos associados.
+
+### Exemplo
+
+Utilizar um cartão de crédito ou contratar um empréstimo.
+
+---
+
+## 10. Juros Compostos
+
+### Definição
+
+São juros calculados sobre um valor que já inclui os juros acumulados anteriormente.
+
+### Exemplo
+
+Se um investimento recebe juros e esses juros permanecem aplicados, os próximos rendimentos poderão incidir sobre o valor acumulado.
+
+---
+
+## 11. Custo Efetivo Total (CET)
+
+### Definição
+
+O CET representa o custo total de uma operação de crédito, considerando os diferentes encargos envolvidos.
+
+### Exemplo
+
+Uma operação de crédito pode apresentar uma taxa de juros anunciada, mas o custo total pode incluir outros encargos e tarifas.
+
+---
+
+## 12. Endividamento
+
+### Definição
+
+Ocorre quando uma pessoa assume compromissos financeiros que deverão ser pagos posteriormente.
+
+### Atenção
+
+O endividamento pode se tornar problemático quando os compromissos financeiros ultrapassam a capacidade de pagamento.
+
+---
+
+## 13. Liquidez
+
+### Definição
+
+É a facilidade e a velocidade com que determinado investimento ou ativo pode ser convertido em dinheiro.
+
+### Exemplo
+
+Um investimento com alta liquidez pode permitir acesso aos recursos com maior facilidade.
+
+---
+
+## 14. Risco
+
+### Definição
+
+É a possibilidade de ocorrência de um resultado diferente daquele esperado, incluindo a possibilidade de perdas.
+
+### Exemplo
+
+Diferentes investimentos possuem diferentes níveis de risco.
+
+---
+
+## 15. Rentabilidade
+
+### Definição
+
+Representa o retorno obtido ou esperado em relação a determinado investimento.
+
+### Exemplo
+
+Um investimento pode apresentar determinado percentual de retorno durante um período.
+
+---
+
+# 📖 Glossário
+
+| Conceito | Significado |
+|---|---|
+| **Educação Financeira** | Processo de desenvolvimento de conhecimentos e habilidades para lidar melhor com recursos financeiros. |
+| **Planejamento Financeiro** | Organização dos recursos financeiros para alcançar objetivos. |
+| **Orçamento** | Planejamento e acompanhamento de receitas e despesas. |
+| **Receita** | Valor recebido por uma pessoa ou família. |
+| **Despesa** | Valor utilizado para pagar bens, serviços ou obrigações. |
+| **Orçamento Superavitário** | Situação em que as receitas são maiores que as despesas. |
+| **Reserva de Emergência** | Recursos destinados a situações financeiras inesperadas. |
+| **Necessidade** | Aquilo que é essencial ou indispensável. |
+| **Desejo** | Vontade ou preferência de consumo. |
+| **Custo de Oportunidade** | Aquilo que se deixa de obter ao escolher uma alternativa. |
+| **Troca Intertemporal** | Relação entre decisões financeiras presentes e consequências futuras. |
+| **Crédito** | Recursos utilizados antecipadamente com pagamento posterior. |
+| **Juros** | Valor associado ao uso ou remuneração do dinheiro durante determinado período. |
+| **Juros Compostos** | Juros calculados sobre o valor acumulado. |
+| **CET** | Custo Efetivo Total de uma operação de crédito. |
+| **Endividamento** | Situação em que existem compromissos financeiros a pagar. |
+| **Liquidez** | Facilidade de transformar um ativo ou investimento em dinheiro. |
+| **Risco** | Possibilidade de resultados diferentes dos esperados. |
+| **Rentabilidade** | Retorno financeiro obtido ou esperado. |
+| **Investimento** | Aplicação de recursos com expectativa de obter retorno. |
+
+---
+
+# 🗺️ Miniguia de Estudos
+
+## Etapa 1 — Diagnóstico da Vida Financeira
+
+### O que estudar
+
+Identificar a situação financeira atual.
+
+### Principais conceitos
+
+- Ativos
+- Passivos
+- Patrimônio
+- Receitas
+- Despesas
+
+### Atividade
+
+Faça um levantamento dos seus principais bens, recursos, receitas, despesas e compromissos financeiros.
+
+---
+
+## Etapa 2 — Organização das Receitas e Despesas
+
+### O que estudar
+
+Identificar para onde o dinheiro está indo.
+
+### Principais conceitos
+
+- Receitas
+- Despesas fixas
+- Despesas variáveis
+- Necessidades
+- Desejos
+
+### Atividade
+
+Registre durante um período todas as receitas e despesas e organize-as por categoria.
+
+---
+
+## Etapa 3 — Construção do Orçamento
+
+### O que estudar
+
+Planejar as receitas e despesas futuras.
+
+### Principais conceitos
+
+- Orçamento
+- Déficit
+- Equilíbrio
+- Superávit
+- Pagar-se primeiro
+
+### Atividade
+
+Crie uma previsão das receitas e despesas do próximo mês.
+
+---
+
+## Etapa 4 — Planejamento de Metas
+
+### O que estudar
+
+Transformar objetivos em metas financeiras.
+
+### Principais conceitos
+
+- Objetivos
+- Metas
+- Necessidades
+- Desejos
+- Custo de oportunidade
+- Troca intertemporal
+
+### Atividade
+
+Escolha uma meta financeira e defina:
+
+- Valor necessário;
+- Prazo;
+- Valor a ser reservado periodicamente.
+
+---
+
+## Etapa 5 — Reserva de Emergência
+
+### O que estudar
+
+A importância de manter recursos para situações inesperadas.
+
+### Principais conceitos
+
+- Emergência
+- Reserva financeira
+- Liquidez
+- Risco
+
+### Atividade
+
+Identifique suas principais despesas essenciais e estabeleça uma meta de reserva financeira.
+
+---
+
+## Etapa 6 — Crédito e Dívidas
+
+### O que estudar
+
+Utilização consciente do crédito e controle dos compromissos financeiros.
+
+### Principais conceitos
+
+- Crédito
+- Juros
+- Juros compostos
+- CET
+- Endividamento
+
+### Atividade
+
+Liste seus compromissos financeiros e identifique os custos associados a cada operação.
+
+---
+
+## Etapa 7 — Introdução aos Investimentos
+
+### O que estudar
+
+Conceitos básicos relacionados aos investimentos.
+
+### Principais conceitos
+
+- Poupança
+- Investimento
+- Risco
+- Liquidez
+- Rentabilidade
+- Renda fixa
+- Renda variável
+
+### Atividade
+
+Antes de analisar qualquer investimento, identifique seu objetivo, prazo, necessidade de liquidez e tolerância ao risco.
+
+---
+
+# 🔄 Prompts Reutilizáveis
+
+## Prompt 1 — Resumo
+
+> Com base exclusivamente nas fontes disponíveis no NotebookLM, faça um resumo estruturado sobre **[TEMA]**. Apresente os conceitos principais, definições e exemplos práticos. Indique as fontes utilizadas.
+
+---
+
+## Prompt 2 — Revisão
+
+> Faça uma revisão sobre **[TEMA]** utilizando exclusivamente as fontes disponíveis no NotebookLM. Organize a resposta em tópicos e destaque os conceitos essenciais para uma revisão rápida.
+
+---
+
+## Prompt 3 — Glossário
+
+> Com base exclusivamente nas fontes do NotebookLM, crie um glossário com os principais termos relacionados a **[TEMA]**. Para cada termo, apresente uma definição simples e um exemplo prático.
+
+---
+
+## Prompt 4 — Perguntas para Estudo
+
+> Crie 10 perguntas de revisão sobre **[TEMA]**, utilizando exclusivamente as informações das fontes disponíveis no NotebookLM. Não apresente as respostas inicialmente. Depois que eu responder, corrija minhas respostas com base nas fontes.
+
+---
+
+## Prompt 5 — Comparação
+
+> Compare **[CONCEITO A]** e **[CONCEITO B]** com base exclusivamente nas fontes do NotebookLM. Apresente as diferenças em uma tabela e inclua exemplos práticos.
+
+---
+
+## Prompt 6 — Identificação de Lacunas
+
+> Analise minha compreensão sobre **[TEMA]** com base nas informações das fontes disponíveis no NotebookLM. Identifique quais conceitos precisam de maior atenção e crie perguntas para aprofundar meu estudo.
+
+---
+
+## Prompt 7 — Explicação Simplificada
+
+> Explique **[TEMA]** utilizando exclusivamente as fontes disponíveis no NotebookLM. Explique como se estivesse ensinando alguém que está estudando esse assunto pela primeira vez. Utilize linguagem simples, exemplos práticos e indique as fontes utilizadas.
+
+---
+
+## Prompt 8 — Revisão Final
+
+> Faça uma revisão final sobre **[TEMA]** utilizando exclusivamente as fontes disponíveis no NotebookLM. Organize a resposta em: conceitos fundamentais, pontos importantes, exemplos práticos, erros comuns e perguntas para revisão. Indique as fontes utilizadas.
+
+---
+
+# 🎓 Conclusão
+
+O desenvolvimento deste projeto permitiu utilizar o NotebookLM como uma ferramenta de apoio à aprendizagem ativa.
+
+A partir da curadoria de fontes, elaboração de prompts e análise das respostas, foi possível organizar informações sobre educação financeira em um material estruturado para estudo e revisão.
+
+O projeto também demonstrou que a qualidade das respostas obtidas por uma ferramenta de Inteligência Artificial depende, entre outros fatores, da clareza e especificidade das instruções fornecidas.
+
+Dessa forma, o NotebookLM foi utilizado não apenas para gerar respostas, mas como uma ferramenta de **pesquisa, organização, revisão e consolidação do conhecimento**.
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+- [NotebookLM](https://notebooklm.google.com/)
+- [GitHub](https://github.com/)
+- Markdown
+- Inteligência Artificial Generativa
+
+---
+
+# 📌 Projeto
+
+Projeto desenvolvido como parte de um **Desafio de Projeto da DIO**, utilizando o NotebookLM como ferramenta de aprendizagem ativa.
+
+**Tema:** Educação Financeira
+
+**Objetivo:** Demonstrar a utilização da Inteligência Artificial como ferramenta de aprendizagem, pesquisa, organização e revisão de conhecimentos.
+
+---
 
 ## 👤 Autor
 
-**jobeljobs**
-
-Projeto desenvolvido como atividade prática da DIO.
+Projeto desenvolvido para fins de estudo e portfólio.
