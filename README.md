@@ -70,7 +70,59 @@ Os objetivos foram definidos utilizando o NotebookLM a partir das fontes selecio
 
 Perguntas utilizadas para orientar o estudo:
 
-> **Adicionar aqui as perguntas e respostas geradas pelo NotebookLM.**
+> **### **1\. Qual é o objetivo básico da gestão do orçamento pessoal ou familiar, como ele se organiza em etapas práticas e por que a estratégia de "pagar-se primeiro" é mais eficiente do que poupar apenas o que sobra?**
+
+**Resposta resumida:** O objetivo básico da boa gestão financeira é manter o orçamento superavitário, garantindo que as despesas sejam estritamente menores que as receitas[1][2]. A elaboração do orçamento ocorre em quatro etapas práticas: planejamento (estimar receitas e despesas futuras), registro (anotar diariamente todos os ganhos e gastos), agrupamento (categorizar despesas em habitação, alimentação, transporte, etc.) e avaliação (refletir sobre o resultado e cortar gastos desnecessários)[3]. A estratégia de **"pagar-se primeiro"** consiste em separar a parcela destinada à poupança ou investimentos imediatamente ao receber a renda, tratando a reserva financeira como um compromisso prioritário[8][9]. Essa prática é mais eficiente do que esperar o fim do mês, pois o dinheiro não reservado tende a ser gasto com despesas não planejadas ao longo do período, resultando em pouca ou nenhuma sobra[10].
+
+* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[1].
+
+---
+
+### **2\. Como a diferenciação entre necessidades e desejos, combinada com o conceito de "troca intertemporal", estimula decisões de consumo mais conscientes e críticas?**
+
+**Resposta resumida:** **Necessidades** são itens indispensáveis à sobrevivência e independentes da vontade (como alimentação básica e moradia), enquanto **desejos** referem-se à forma como se almeja satisfazer essas necessidades ou usufruir de bens não essenciais[11][12]. Tratar desejos como se fossem necessidades compromete a saúde financeira, pois os desejos humanos são ilimitados, mas os recursos financeiros são limitados[13]. A **troca intertemporal** analisa o impacto das escolhas presentes sobre o futuro: antecipar o consumo por meio de empréstimos gera o custo de pagamento de juros (posição devedora), enquanto adiar o consumo e poupar gera rendimentos e amplia o poder de barganha para obter descontos à vista (posição credora)[14].
+
+* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[11].
+
+---
+
+### **3\. Qual é a diferença prática entre um "sonho" e um "projeto" no planejamento financeiro e quais são os passos necessários para tirar um objetivo do papel?**
+
+**Resposta resumida:** Um **sonho** é uma aspiração, desejo vivo ou ideia abstrata que traz motivação, enquanto um **projeto** é esse sonho estruturado, planejado e colocado "no papel" com metas e ações concretas[19]. Para transformar um sonho em projeto, as fontes orientam a execução de cinco passos práticos: 1) definir exatamente onde quer chegar (especificando o bem ou serviço); 2) estabelecer metas claras e objetivas de valor e prazo; 3) internalizar uma visão motivadora de futuro; 4) criar etapas intermediárias para acompanhar o progresso e ajustar o trajeto diante de imprevistos; e 5) comemorar as conquistas intermediárias para manter a motivação e a disciplina[22].
+
+* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[19].
+
+---
+
+### **4\. Qual é a função da reserva de emergência no planejamento financeiro, qual montante é recomendado acumular e quais critérios devem guiar a escolha do investimento?**
+
+**Resposta resumida:** A reserva de emergência funciona como um "colchão de proteção financeira" voltado para cobrir despesas imprevistas (como desemprego, problemas de saúde ou reparos urgentes), garantindo a estabilidade e evitando o endividamento[28]. O montante ideal recomendado varia entre 3 e 12 meses do custo de vida ou despesas correntes do indivíduo ou família[32]. O recurso deve ser aplicado obrigatoriamente em investimentos de **baixo risco de crédito** e **alta liquidez (resgate imediato)**, pois o objetivo central é a segurança e a disponibilidade rápida do capital, e não a busca por alta rentabilidade[31].
+
+* **Fontes utilizadas:** *GUIA planejamento financeiro.pdf*[28]; *Planejamento e gestão de reservas financeiras.*[30]; *caderno\_cidadania\_financeira.pdf*[36]; *versao-digital-CVM\_livro\_top\_planejamento\_financeiro\_pessoal (2).pdf*[34].
+
+---
+
+### **5\. De que forma os juros compostos atuam ao longo do tempo e por que iniciar a poupança precocemente reduz o esforço financeiro para atingir metas de longo prazo?**
+
+**Resposta resumida:** Diferente dos juros simples (calculados apenas sobre o capital inicial), os **juros compostos** são incorporados ao principal a cada período, gerando o efeito de "juros sobre juros"[39][40]. Devido ao efeito exponencial, a variável tempo potencializa significativamente os rendimentos acumulados[41][42]. Quem começa a poupar e investir mais cedo aproveita a capitalização por um período prolongado e precisa desembolsar muito menos capital próprio do bolso para atingir a mesma meta futura quando comparado a quem adia o início da poupança por alguns anos[41].
+
+* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[39]; *versao-digital-CVM\_livro\_top\_planejamento\_financeiro\_pessoal (2).pdf*[42].
+
+---
+
+### **6\. O que é o Custo Efetivo Total (CET) em operações de crédito e por que avaliar apenas se a prestação mensal "cabe no bolso" é uma armadilha financeira?**
+
+**Resposta resumida:** O **Custo Efetivo Total (CET)** é a taxa percentual anual que informa o custo real de um empréstimo ou financiamento, englobando a taxa de juros, tarifas administrativas, tributos (como o IOF) e seguros cobrados na operação[46][47]. Avaliar apenas se o valor da parcela mensal "cabe no bolso" é inadequado pois esconde encargos embutidos e taxas elevadas que comprometem a renda futura do tomador[48][49]. A comparação do CET entre diferentes instituições financeiras é o único meio eficaz de identificar a proposta mais vantajosa e evitar modalidades de "crédito fácil" que elevam o risco de superendividamento[46][50].
+
+* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[46]; *versao-digital-CVM\_livro\_top\_planejamento\_financeiro\_pessoal (2).pdf*[47].
+
+---
+
+### **7\. O que caracteriza o endividamento excessivo e quais passos práticos devem ser adotados para reorganizar as finanças e quitar as dívidas de forma estruturada?**
+
+**Resposta resumida:** O endividamento excessivo ocorre quando as dívidas assumidas superam a capacidade de pagamento do indivíduo, gerando descontrole no orçamento e comprometendo a qualidade de vida[51][52]. Para se livrar do endividamento excessivo, as fontes recomendam uma sequência prática de cinco passos: 1) tomar consciência da situação e assumir o compromisso de resolvê-la; 2) mapear detalhadamente todas as dívidas (valores, prazos e taxas de juros); 3) interromper a geração de novas dívidas; 4) renegociar com os credores, trocando dívidas mais caras por opções com juros menores ou utilizando a portabilidade de crédito; e 5) cortar gastos, eliminando desperdícios, reduzindo supérfluos e otimizando despesas necessárias com a colaboração de toda a família[53].
+
+* **Fontes utilizadas:** *caderno\_cidadania\_financeira.pdf*[51].**
 
 ## ✨ Experimentação de prompts
 
