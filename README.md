@@ -70,7 +70,7 @@ Os objetivos foram definidos utilizando o NotebookLM a partir das fontes selecio
 
 Perguntas utilizadas para orientar o estudo:
 
-> **### **1\. Qual é o objetivo básico da gestão do orçamento pessoal ou familiar, como ele se organiza em etapas práticas e por que a estratégia de "pagar-se primeiro" é mais eficiente do que poupar apenas o que sobra?**
+### **1\. Qual é o objetivo básico da gestão do orçamento pessoal ou familiar, como ele se organiza em etapas práticas e por que a estratégia de "pagar-se primeiro" é mais eficiente do que poupar apenas o que sobra?**
 
 **Resposta resumida:** O objetivo básico da boa gestão financeira é manter o orçamento superavitário, garantindo que as despesas sejam estritamente menores que as receitas[1][2]. A elaboração do orçamento ocorre em quatro etapas práticas: planejamento (estimar receitas e despesas futuras), registro (anotar diariamente todos os ganhos e gastos), agrupamento (categorizar despesas em habitação, alimentação, transporte, etc.) e avaliação (refletir sobre o resultado e cortar gastos desnecessários)[3]. A estratégia de **"pagar-se primeiro"** consiste em separar a parcela destinada à poupança ou investimentos imediatamente ao receber a renda, tratando a reserva financeira como um compromisso prioritário[8][9]. Essa prática é mais eficiente do que esperar o fim do mês, pois o dinheiro não reservado tende a ser gasto com despesas não planejadas ao longo do período, resultando em pouca ou nenhuma sobra[10].
 
