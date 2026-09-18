@@ -21,13 +21,12 @@ Principais assuntos abordados:
 
 ## 📚 Fontes utilizadas
 
-Foram selecionadas quatro fontes institucionais:
+Foram selecionadas quatro fontes institucionais e abertas:
 
-1. Banco Central do Brasil — Caderno de Educação Financeira
-2. CVM — Guia de Planejamento Financeiro
-3. CVM — Planejamento e gestão de reservas financeiras
-4. CVM — TOP Planejamento Financeiro Pessoal
-
+1. [Banco Central do Brasil — Caderno de Educação Financeira](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
+2. [CVM — Guia de Planejamento Financeiro](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias/guia-de-planejamento-financeiro)
+3. [CVM — Planejamento e gestão de reservas financeiras](https://www.gov.br/investidor/pt-br/penso-logo-invisto/planejamento-e-gestao-de-reservas-financeiras)
+4. [CVM — TOP Planejamento Financeiro Pessoal](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm/livro-top-planejamento-financeiro-pessoal/)
 ## 🎯 Objetivos de aprendizagem
 
 Os objetivos foram definidos utilizando o NotebookLM a partir das fontes selecionadas.
