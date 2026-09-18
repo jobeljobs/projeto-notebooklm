@@ -4,11 +4,35 @@ Projeto desenvolvido para o desafio **Treinando uma IA de Aprendizagem: Explore 
 
 ## 🎯 Objetivo
 
-Com base nas fontes disponibilizadas no notebook, foram estruturados **6 objetivos de aprendizagem** claros e práticos para um Caderno Temático de Educação Financeira para Iniciantes:
+Utilizar o NotebookLM como ferramenta de aprendizagem ativa para organizar, analisar e estudar conteúdos introdutórios de educação financeira, utilizando fontes confiáveis e prompts estruturados.
 
----
+## 🧠 Tema
 
-### **1\. Diferenciar Necessidades de Desejos e Praticar Escolhas Conscientes**
+**Educação Financeira para Iniciantes**
+
+Principais assuntos abordados:
+
+* Organização das finanças pessoais
+* Orçamento financeiro
+* Planejamento financeiro
+* Reserva de emergência
+* Crédito, juros e dívidas
+* Poupança e investimentos
+
+## 📚 Fontes utilizadas
+
+Foram selecionadas quatro fontes institucionais:
+
+1. Banco Central do Brasil — Caderno de Educação Financeira
+2. CVM — Guia de Planejamento Financeiro
+3. CVM — Planejamento e gestão de reservas financeiras
+4. CVM — TOP Planejamento Financeiro Pessoal
+
+## 🎯 Objetivos de aprendizagem
+
+Os objetivos foram definidos utilizando o NotebookLM a partir das fontes selecionadas.
+
+> **### **1\. Diferenciar Necessidades de Desejos e Praticar Escolhas Conscientes**
 
 * **Conhecimento e Habilidade a Desenvolver:** Identificar a diferença entre **necessidades** (itens indispensáveis à vida) e **desejos** (anseios e vontades)[1][2]. Compreender o conceito de **troca intertemporal** — analisando os impactos das escolhas presentes sobre o futuro ao decidir entre usufruir agora (assumindo custos e juros) ou adiar o consumo (recebendo rendimentos)[3]. O participante aprenderá a equilibrar razão e emoção nas decisões de compra, evitando impulsos e exigências de *status* social[6].
 
@@ -40,34 +64,7 @@ Com base nas fontes disponibilizadas no notebook, foram estruturados **6 objetiv
 
 ### **6\. Construir Reservas de Emergência e Estruturar o Planejamento de Futuro**
 
-* **Conhecimento e Habilidade a Desenvolver:** Calcular e constituir uma **reserva para emergências** (montante equivalente de 3 a 12 meses do custo de vida) aplicada em investimentos de baixo risco e resgate imediato[42]. Além disso, compreender a importância da transferência de riscos por meio de seguros[48] e da preparação financeira precoce para a aposentadoria, aproveitando o tempo a favor da capitalização dos recursos[51].
-## 🧠 Tema
-
-**Educação Financeira para Iniciantes**
-
-Principais assuntos abordados:
-
-* Organização das finanças pessoais
-* Orçamento financeiro
-* Planejamento financeiro
-* Reserva de emergência
-* Crédito, juros e dívidas
-* Poupança e investimentos
-
-## 📚 Fontes utilizadas
-
-Foram selecionadas quatro fontes institucionais:
-
-1. Banco Central do Brasil — Caderno de Educação Financeira
-2. CVM — Guia de Planejamento Financeiro
-3. CVM — Planejamento e gestão de reservas financeiras
-4. CVM — TOP Planejamento Financeiro Pessoal
-
-## 🎯 Objetivos de aprendizagem
-
-Os objetivos foram definidos utilizando o NotebookLM a partir das fontes selecionadas.
-
-> **Adicionar aqui os objetivos gerados pelo NotebookLM.**
+* **Conhecimento e Habilidade a Desenvolver:** Calcular e constituir uma **reserva para emergências** (montante equivalente de 3 a 12 meses do custo de vida) aplicada em investimentos de baixo risco e resgate imediato[42]. Além disso, compreender a importância da transferência de riscos por meio de seguros[48] e da preparação financeira precoce para a aposentadoria, aproveitando o tempo a favor da capitalização dos recursos[51].**
 
 ## ❓ Perguntas estratégicas
 
